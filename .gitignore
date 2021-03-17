@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.vscode
+consumer/Include
+consumer/Scripts
+consumer/pyvenv.cfg
+producer/.vscode
+producer/Include
+producer/Scripts
+producer/pyvenv.cfg
